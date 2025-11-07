@@ -15,3 +15,28 @@
 
 
 ![MythicPickaxe Build](https://img.shields.io/github/actions/workflow/status/NovaCreations/MythicPickaxe/build.yml?style=for-the-badge&logo=github)
+
+![Gradient](https://img.shields.io/badge/Kotlin-%237F52FF%20→%20%235256FF?style=for-the-badge)
+
+![Mythic Badge](https://yourcdn.com/badges/mythic_neon.svg)
+
+![Animated Badge](https://yourcdn.com/badges/java-glow.gif)
+
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,idea,figma,aftereffects" />
+</p>
+
+
+![Online Players](https://img.shields.io/endpoint?url=https://api.mythic-realms.org/playercount)
+
+
+
+
+
+
+
+
+
+
+
