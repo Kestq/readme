@@ -22,7 +22,7 @@
 
 ---
 
-### 🧩 Bonus — Radical (Your Current Theme)
+### ✨ Bonus — Radical (Your Current Theme)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Kestq&theme=radical&no-bg=true&no-frame=true&row=1&column=6" alt="Radical Theme">
 </p>
